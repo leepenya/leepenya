@@ -2,6 +2,13 @@
 
 <h2> Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+
+  - [Creating a Virtual Machine](https://github.com/leepenya/azure-vm)
+  
+  - [Creating a Virtual Private Network](https://github.com/leepenya/azure-vpn)
+  
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/leepenya/configure-ad)
 
 <h2> Connect with me:</h2>
 
