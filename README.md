@@ -5,7 +5,9 @@
 - <b>Microsoft Azure</b>
 
   - [Creating a Virtual Machine](https://github.com/leepenya/azure-vm)
-  
+
+  - [Inspecting Network Traffic with Wireshark](https://github.com/leepenya/azure-ws)
+
   - [Creating a Virtual Private Network](https://github.com/leepenya/azure-vpn)
   
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/leepenya/configure-ad)
