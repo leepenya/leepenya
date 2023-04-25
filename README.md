@@ -4,13 +4,13 @@
 
 - <b>Microsoft Azure</b>
 
-  - [Creating a Virtual Machine](https://github.com/leepenya/azure-vm)
+  - [Creating a Virtual Machine in Microsoft Azure](https://github.com/leepenya/azure-vm)
 
   - [Inspecting Network Protocols with Wireshark](https://github.com/leepenya/azure-ws)
 
-  - [Creating a Virtual Private Network](https://github.com/leepenya/azure-vpn)
+  - [Creating a Virtual Private Network in Microsoft Azure](https://github.com/leepenya/azure-vpn)
   
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/leepenya/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/leepenya/configure-ad)
 
 <h2> Connect with me:</h2>
 
