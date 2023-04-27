@@ -10,7 +10,7 @@
 
   - [Creating a Virtual Private Network in Microsoft Azure](https://github.com/leepenya/azure-vpn)
   
-  - [Configuring Active Directory within Azure VMs](https://github.com/leepenya/configure-ad)
+  - [Configuring Active Directory in Microsoft Azure Virtual Machines](https://github.com/leepenya/configure-ad)
 
 <h2> Connect with me:</h2>
 
